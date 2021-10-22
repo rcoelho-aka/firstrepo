@@ -1,6 +1,6 @@
 const authors = [
-    { name: 'Ricardo Coelho', age: 23 },
-    { name: 'Invisible Friend' }
+    { name: 'Luis Neves'},
+    { name: 'Joao Neves'}
 ]
 
 export default () => {
