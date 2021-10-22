@@ -1,10 +1,12 @@
 // Import controllers here
 import group0 from '../controllers/group0.js'
+import group3 from '../controllers/group3.js'
 //import ...
 
 
 // Declare routes for imported controllers
 export default {
-    group0
+    group0,
+    group3
     // ...
 }
