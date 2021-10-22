@@ -6,7 +6,7 @@ import group9 from '../controllers/group9.js'
 
 // Declare routes for imported controllers
 export default {
-    group0
+    group0,
     group9
     // ...
 }
