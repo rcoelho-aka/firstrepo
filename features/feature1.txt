@@ -1,0 +1,14 @@
+Objetivo:
+- Implementar um endpoint para cada grupo na rota /X onde X é o número do grupo (exemplo, /1)
+- O endpoint deverá retornar um objeto com o segunte formato:
+
+{
+   "authors":[
+      {
+         "name":"Ricardo Coelho"
+      },
+      {
+         "name":"Invisible Friend"
+      }
+   ]
+}
