@@ -1,5 +1,5 @@
 const authors = [
-    { name: 'Ricardo Coelho' },
+    { name: 'Ricardo Coelho', age: 23 },
     { name: 'Invisible Friend' }
 ]
 
