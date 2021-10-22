@@ -1,6 +1,6 @@
 const authors = [
     { name: 'Nuno Braga'},
-    { name: 'FP' }
+    { name: 'FernandoP' }
 ]
 
 export default () => {
