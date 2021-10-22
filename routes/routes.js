@@ -7,6 +7,7 @@ import group6 from '../controllers/group6.js'
 import group8 from '../controllers/group8.js'
 import group10 from '../controllers/group10.js'
 import group1 from '../controllers/group1.js'
+import group1 from '../controllers/group9.js'
 
 //import ...
 
@@ -19,7 +20,8 @@ export default {
     group8,
     group10,
     group1,
-    group5
+    group5,
+	group9
     // ...
 
 }
